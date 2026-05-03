@@ -1,0 +1,8 @@
+{
+  "name": "Shree Sai Dental & Multispeciality Clinic",
+  "description": "A premium, modern dental clinic website featuring Dr. Rohan Kumar Singh. Specialized in painless treatments and advanced dental care.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
